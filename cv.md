@@ -11,3 +11,12 @@ _________________
 <br><li><a href="https://t.me/trava_vesna">Telegram</a></li>
 <br><li><a href="https://github.com/kvietacka-js">GitHub</a></li>
 </ul>
+_________________
+
+<p><h3>About me:</h3>
+I am a student at the VILNIUS TECH University and this is actually my fifths year studying design. During this time I've tried different field and almost nothing could arouse my interest that much except digital communication, mathematics and computer science. That is why I am here to try myself in fornt-end.
+<br> I believe in myself and I am convinced that I can become a good specialist and :)
+</p>
+
+_________________
+
