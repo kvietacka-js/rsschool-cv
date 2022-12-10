@@ -46,3 +46,12 @@ chai.config.truncateThreshold=0;
 </pre></p>
 
 _________________
+
+<h3>Employment history:</h3>
+<ul>
+<li><strong>Game Store Engineer, Waragming</strong></li>
+ may 2022 - aug 2022
+  <ul><em>-	filling the virtual store with content (creating and checking prices and discounts, product names and formatting characteristics, descriptions and images);</em></ul>
+  <ul><em>-	monitoring the updates and qua.lity of technical and realisation plans;</em></ul>
+  <ul><em>-	working on the Jira and Confluence platforms;</em></ul>
+</ul>
