@@ -70,3 +70,13 @@ _________________
     <ul>
     <li><em>Unfinished bachelor degree in Social Sciences, 2018 - 2021</li></ul></em>
 </ul>
+
+_________________
+
+<h3>Languagues:</h3>
+<ul>
+<li><strong>English</strong> - B2</li>
+<em>-	 Cambridge English Qualification (First Certificate in English), 2018 </em>
+<li><strong>Russian</strong> - native</li>
+<li><strong>Belarusian</strong> - native</li>
+</ul>
