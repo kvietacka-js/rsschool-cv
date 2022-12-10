@@ -21,3 +21,13 @@ I am a student at the VILNIUS TECH University and this is actually my fifths yea
 
 _________________
 
+<h3>Skills and Proficiency:</h3>
+<ul>
+<li>HTML5, CSS3</li>
+<br><li>Adobe Photoshop, Illustrator, InDesign</li>
+<br><li>Git, GitHub</li>
+<br><li>JavaScript Basics</li>
+</ul>
+
+_________________
+
