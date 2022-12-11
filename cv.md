@@ -60,10 +60,9 @@ _________________
 
 <h3>Education:</h3>
 <ul>
-<li><strong>New Design University</strong> - St. Polten, Austria</li>
-    <ul><ul>
-    <li><em>Erasmus+ semester, 2022 - 2023</li></em>
-    </ul></ul>
+<li><strong>New Design University</strong> - St. Polten, Austria</li></ul>
+    <ul>
+    <li><em>Erasmus+ semester, 2022 - 2023</li></em></ul>
 <br><li><strong>Vilnius Gediminas Technical University (VILNIUS TECH)</strong> - Vilnius, Lithuania</li>
     <ul>
     <li><em>Bachelor degree in Social Sciences, 2021 - 2023</li></em>
