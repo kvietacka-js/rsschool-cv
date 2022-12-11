@@ -62,13 +62,16 @@ _________________
 <ul>
 <li><strong>New Design University</strong> - St. Polten, Austria</li>
     <ul>
-    <li><em>Erasmus+ semester, 2022 - 2023</li></ul></em>
+    <li><em>Erasmus+ semester, 2022 - 2023</li></em>
+    </ul>
 <br><li><strong>Vilnius Gediminas Technical University (VILNIUS TECH)</strong> - Vilnius, Lithuania</li>
     <ul>
-    <li><em>Bachelor degree in Social Sciences, 2021 - 2023</li></ul></em>
+    <li><em>Bachelor degree in Social Sciences, 2021 - 2023</li></em>
+    </ul>
 <br><li><strong>Belarusian National Technical University</strong> - Minsk, Belarus</li>
     <ul>
-    <li><em>Unfinished bachelor degree in Social Sciences, 2018 - 2021</li></ul></em>
+    <li><em>Unfinished bachelor degree in Social Sciences, 2018 - 2021</li></em>
+    </ul>
 </ul>
 
 _________________
